@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Server\3_DAL\bin\Debug\net6.0\3_DAL.deps.json
+C:\Users\Lenovo\Desktop\Server\3_DAL\bin\Debug\net6.0\3_DAL.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Server\3_DAL\bin\Debug\net6.0\3_DAL.dll
+C:\Users\Lenovo\Desktop\Server\3_DAL\bin\Debug\net6.0\3_DAL.pdb
+C:\Users\Lenovo\Desktop\Server\3_DAL\obj\Debug\net6.0\3_DAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Server\3_DAL\obj\Debug\net6.0\3_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Server\3_DAL\obj\Debug\net6.0\3_DAL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Server\3_DAL\obj\Debug\net6.0\3_DAL.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Server\3_DAL\obj\Debug\net6.0\3_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Server\3_DAL\obj\Debug\net6.0\3_DAL.dll
+C:\Users\Lenovo\Desktop\Server\3_DAL\obj\Debug\net6.0\refint\3_DAL.dll
+C:\Users\Lenovo\Desktop\Server\3_DAL\obj\Debug\net6.0\3_DAL.pdb
+C:\Users\Lenovo\Desktop\Server\3_DAL\obj\Debug\net6.0\3_DAL.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Server\3_DAL\obj\Debug\net6.0\ref\3_DAL.dll
